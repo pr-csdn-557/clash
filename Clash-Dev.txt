@@ -23,5 +23,6 @@ curl -s https://anti-ad.net/anti-ad-for-dnsmasq.conf -o /tmp/dnsmasq.d/anti-ad-f
 # 清理 DNS 缓存  
 LOG_OUT "清理 DNS 缓存…"  
 /etc/init.d/dnsmasq reload
+/etc/init.d/dnsmasq restart
 
 exit 0
