@@ -1,2 +1,2 @@
-https://yourdomain.com/video.key
+https://raw.githubusercontent.com/pr-csdn-557/clash/refs/heads/main/keyinfo.txt
 video.key
