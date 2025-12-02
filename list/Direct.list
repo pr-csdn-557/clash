@@ -1,11 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-#1. 精确匹配域名
-  #1.1 小说
+#精确匹配域名
 #DOMAIN,xbiqugu.la
 
-#2. 域名后缀匹配
+#域名后缀匹配
 DOMAIN-SUFFIX,cnb.run
 DOMAIN-SUFFIX,xbiqugu.la
 DOMAIN-SUFFIX,mcxs.info
@@ -15,12 +14,8 @@ DOMAIN-SUFFIX,ujxsw.org
 DOMAIN-SUFFIX,yeudusk.com
 DOMAIN-SUFFIX,wxsy.net
 
-#3. 匹配所有包含关键字
+#3匹配所有包含关键字
 #DOMAIN-KEYWORD,google
-
-
-
-
 
 
 DOMAIN-SUFFIX,time.windows.com
