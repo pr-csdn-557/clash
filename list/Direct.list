@@ -1,13 +1,21 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-# 精确匹配域名
-#DOMAIN,ad.com
+#1. 精确匹配域名
+  #1.1 小说
+DOMAIN,xbiqugu.la
+DOMAIN,mcxs.info
+DOMAIN,99xs.info
+DOMAIN,xbiquzw.net
+DOMAIN,ujxsw.org
+DOMAIN,yeudusk.com
+DOMAIN,wxsy.net
 
-# 域名后缀匹配
+
+#2. 域名后缀匹配
 DOMAIN-SUFFIX,cnb.run
 
-# 匹配所有包含关键字
+#3. 匹配所有包含关键字
 #DOMAIN-KEYWORD,google
 
 
