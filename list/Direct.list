@@ -2,7 +2,7 @@
 
 # MyList
 #精确匹配域名
-#DOMAIN,xbiqugu.la
+#DOMAIN,
 
 #域名后缀匹配
 DOMAIN-SUFFIX,cnb.run
